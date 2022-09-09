@@ -111,15 +111,15 @@ You can find me at:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/rv710">
+<!-- <a href="https://github.com/rv710">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv710&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+</a> -->
 <a href="https://github.com/rv710">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RV0710&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="(https://github.com/rv0710)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rv0710&repo=background-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" wrap="wrap" src="https://github-readme-stats.vercel.app/api/pin/?username=Rv0710&repo=background-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
@@ -131,6 +131,9 @@ You can find me at:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rv0710&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rv0710&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- links to social media icons -->
 
