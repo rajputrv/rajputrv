@@ -35,12 +35,12 @@
 
 <br/>
 <div align="center">
-  <img src="https://github.com/rv0710/private/blob/8f0eaeafe264f96b5c762434f32d3252827deb9d/VID_20220909_193913_860.gif" width="600" height="600"/>
+  <img src="https://github.com/rv0710/ABOUTME/blob/92d647dd4db3978a971c5bd148a87500e2e11e65/funtion.gif" width="600" height="600"/>
 </div>
 <br/>
 <br/>
 <div align="center">
-  <img src="https://github.com/rv0710/private/blob/8f0eaeafe264f96b5c762434f32d3252827deb9d/VID_20220909_193917_870.gif" width="600" height="600"/>
+  <img src="https://github.com/rv0710/ABOUTME/blob/92d647dd4db3978a971c5bd148a87500e2e11e65/VID_20220909_193917_870.gif" width="600" height="600"/>
 </div>
 
 
