@@ -26,12 +26,12 @@
 </div><br/><br/>
 <br/>
 <div align="center">
-  <img src="https://github.com/rv0710/ABOUTME/blob/92d647dd4db3978a971c5bd148a87500e2e11e65/funtion.gif" width="600" height="500"/>
+  <img src="https://github.com/rv0710/ABOUTME/blob/92d647dd4db3978a971c5bd148a87500e2e11e65/funtion.gif" width="600" height="600"/>
 </div>
 <br/>
 <br/>
 <div align="center">
-  <img src="https://github.com/rv0710/ABOUTME/blob/92d647dd4db3978a971c5bd148a87500e2e11e65/VID_20220909_193917_870.gif" width="600" height="500"/>
+  <img src="https://github.com/rv0710/ABOUTME/blob/92d647dd4db3978a971c5bd148a87500e2e11e65/VID_20220909_193917_870.gif" width="600" height="600"/>
 </div>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
