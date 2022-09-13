@@ -34,6 +34,21 @@
   <img src="https://github.com/rv0710/ABOUTME/blob/92d647dd4db3978a971c5bd148a87500e2e11e65/VID_20220909_193917_870.gif" width="600" height="600"/>
 </div>
 
+<br/><br/>
+<br/>
+<div align="center">
+  <img src="https://github.com/rv0710/ABOUTME/blob/94dec2298ed713ed7df1716b263f7c42670fa8ed/gif3.gif" width="600" height="600"/>
+</div>
+<br/>
+<br/>
+<div align="center">
+  <img src="https://github.com/rv0710/ABOUTME/blob/94dec2298ed713ed7df1716b263f7c42670fa8ed/gif4.gif" width="600" height="600"/>
+</div>
+
+
+
+
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Rohit Verma and I'm a software developer & FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I'm from Mandi,Himachal Pardesh and currently Studing at NIT Hamirpur.
