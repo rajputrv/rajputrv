@@ -14,7 +14,7 @@
   </a>
 </div>
 <div align="center">
-<!-- <img src="https://komarev.com/ghpvc/?username=rv0710&style=flat-square&color=blue" alt=""/> profile counts --> 
+ <img src="https://komarev.com/ghpvc/?username=rv0710&style=flat-square&color=blue" alt=""/> profile counts
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -118,14 +118,14 @@ You can find me at:
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/rv710">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RV0710&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/rv0710">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rv0710&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 <a href="(https://github.com/rv0710)">
-  <img align="center" wrap="wrap" src="https://github-readme-stats.vercel.app/api/pin/?username=Rv0710&repo=background-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" wrap="wrap" src="https://github-readme-stats.vercel.app/api/pin/?username=rv0710&repo=background-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/rv710">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rv0710&repo=ABOUTME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/rv0710">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rv0710&repo=ABOUTME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 ---
