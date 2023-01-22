@@ -64,19 +64,19 @@ My name is Rohit Verma and I'm a software developer & FullStack Developer <img s
 
 You can find me at:
 <p align='center'>
-<a href="https://dev.to/rohitverma710"><img height="30" src="https://github.com/rv0710/ABOUTME/blob/98965ec3d0a01095806314816f6805a6930faf9e/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/rohitverma00710"><img height="30" src="https://github.com/rv0710/ABOUTME/blob/98965ec3d0a01095806314816f6805a6930faf9e/twitter.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/_rohit._verma_"><img height="30" src="https://github.com/rv0710/ABOUTME/blob/98965ec3d0a01095806314816f6805a6930faf9e/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rohit-verma-0a4578241"><img height="30" src="https://github.com/rv0710/ABOUTME/blob/98965ec3d0a01095806314816f6805a6930faf9e/linkedin.png?raw=true"></a>
+<a href="https://dev.to/rohitverma710"><img height="30" src="dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/rohitverma00710"><img height="30" src="twitter.jpg"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/_rohit._verma_"><img height="30" src="instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rohit-verma-0a4578241"><img height="30" src="linkedin.png"></a>
 </p>
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="none" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="none" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="none" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
