@@ -14,7 +14,7 @@
   </a>
 </div>
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=rv0710&style=flat-square&color=blue" alt=""/> profile counts
+ <img src="https://komarev.com/ghpvc/?username=rv0710&style=flat-square&color=blue" href='none' alt="profie counts"/> 
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
