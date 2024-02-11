@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=rv0710&style=flat-square&color=blue" href='none' alt="profie counts"/> 
   <h1>
@@ -25,28 +27,20 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div><br/><br/>
 <br/>
-<div align="center">
+
+
+<div  style="float: left">
+<div align="center" style="display: inline-block;>
   <img src="https://github.com/rv0710/rv0710/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193913_860.gif" width="600" height="600"/>
 </div>
 <br/>
 <br/>
-<div align="center">
+<div align="center" style="display: inline-block;>
   <img src="https://github.com/rv0710/rv0710/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193917_870(1).gif" width="600" height="600"/>
+</div>
 </div>
 
 <br/><br/>
-<br/>
-<div align="center">
-  <img src="https://github.com/rv0710/ABOUTME/blob/94dec2298ed713ed7df1716b263f7c42670fa8ed/gif3.gif" width="600" height="600"/>
-</div>
-<br/>
-<br/>
-<div align="center">
-  <img src="https://github.com/rv0710/ABOUTME/blob/94dec2298ed713ed7df1716b263f7c42670fa8ed/gif4.gif" width="600" height="600"/>
-</div>
-
-
-
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
@@ -56,7 +50,7 @@ My name is Rohit Verma and I'm a software developer & FullStack Developer <img s
 
 ### :woman_technologist: 🚀ABOUT ME :
 
--:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -122,14 +116,17 @@ You can find me at:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rv0710&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
- ```
+
+<!---
 <a href="(https://github.com/rv0710)">
   <img align="center" wrap="wrap" src="https://github-readme-stats.vercel.app/api/pin/?username=rv0710&repo=background-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/rv0710">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rv0710&repo=ABOUTME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-```  
+-->
+
+
 
 ---
 
