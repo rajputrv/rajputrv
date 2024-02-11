@@ -29,16 +29,15 @@
 <br/>
 
 
-<div  style="float: left">
-<div align="center" style="display: inline-block;>
+<div align="center" >
   <img src="https://github.com/rv0710/rv0710/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193913_860.gif" width="600" height="600"/>
 </div>
 <br/>
 <br/>
-<div align="center" style="display: inline-block;>
+<div align="center" >
   <img src="https://github.com/rv0710/rv0710/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193917_870(1).gif" width="600" height="600"/>
 </div>
-</div>
+
 
 <br/><br/>
 
