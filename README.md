@@ -26,12 +26,12 @@
 </div><br/><br/>
 <br/>
 <div align="center">
-  <img src="https://github.com/rv0710/ABOUTME/blob/92d647dd4db3978a971c5bd148a87500e2e11e65/funtion.gif" width="600" height="600"/>
+  <img src="https://github.com/rv0710/rv0710/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193913_860.gif" width="600" height="600"/>
 </div>
 <br/>
 <br/>
 <div align="center">
-  <img src="https://github.com/rv0710/ABOUTME/blob/92d647dd4db3978a971c5bd148a87500e2e11e65/VID_20220909_193917_870.gif" width="600" height="600"/>
+  <img src="https://github.com/rv0710/rv0710/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193917_870(1).gif" width="600" height="600"/>
 </div>
 
 <br/><br/>
@@ -121,12 +121,15 @@ You can find me at:
 <a href="https://github.com/rv0710">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rv0710&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+ ```
 <a href="(https://github.com/rv0710)">
   <img align="center" wrap="wrap" src="https://github-readme-stats.vercel.app/api/pin/?username=rv0710&repo=background-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/rv0710">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rv0710&repo=ABOUTME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
+```  
 
 ---
 
