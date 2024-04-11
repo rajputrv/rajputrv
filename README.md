@@ -130,9 +130,13 @@ You can find me at:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rv0710&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rv0710&theme=radical)](https://gitub.com/rv0710)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rv0710&layout=compact&theme=vision-friendly-dark)](https://github.com/rv0710)
+
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv0710&layout=donut)](https://github.com/rv710)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rv0710&show_icons=true&layout=compact)](https://github.com/rv0710)
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
