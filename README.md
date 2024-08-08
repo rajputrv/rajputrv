@@ -40,6 +40,14 @@
 
 
 <br/><br/>
+<br/>
+<div align="center" >
+  <img src="https://github.com/rajputrv/rajputrv/blob/main/anime1.gif" width="600" height="600"/>
+  
+</div>
+
+
+<br/><br/>
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
