@@ -16,7 +16,7 @@
 
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=rv0710&style=flat-square&color=blue" href='none' alt="profie counts"/> 
+ <img src="https://komarev.com/ghpvc/?username=rajputrv&style=flat-square&color=blue" href='none' alt="profie counts"/> 
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -30,12 +30,12 @@
 
 
 <div align="center" >
-  <img src="https://github.com/rv0710/rv0710/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193913_860.gif" width="600" height="600"/>
+  <img src="https://github.com/rajputrv/rajputrv/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193913_860.gif" width="600" height="600"/>
 </div>
 <br/>
 <br/>
 <div align="center" >
-  <img src="https://github.com/rv0710/rv0710/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193917_870(1).gif" width="600" height="600"/>
+  <img src="https://github.com/rajputrv/rajputrv/blob/3c7f4dc9ffa7c503768d5392d332c859ffdf7488/VID_20220909_193917_870(1).gif" width="600" height="600"/>
 </div>
 
 
@@ -119,42 +119,22 @@ You can find me at:
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/rv0710">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rv0710&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/rajputrv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajputrv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 
-<!---
-<a href="(https://github.com/rv0710)">
-  <img align="center" wrap="wrap" src="https://github-readme-stats.vercel.app/api/pin/?username=rv0710&repo=background-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/rv0710">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rv0710&repo=ABOUTME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
--->
-
-
-
----
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rv0710&theme=radical)](https://gitub.com/rv0710)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajputrv&theme=radical)](https://gitub.com/rajputrv)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rv0710&layout=compact&theme=vision-friendly-dark)](https://github.com/rv0710)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputrv&layout=compact&theme=vision-friendly-dark)](https://github.com/rajputrv)
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv0710&layout=donut)](https://github.com/rv710)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputrv&layout=donut)](https://github.com/rv710)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rv0710&show_icons=true&layout=compact)](https://github.com/rv0710)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rv0710&show_icons=true&layout=compact)](https://github.com/rajputrv)
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[1]: https://twitter.com/rohitverma00710
-[2]: https://github.com/rv0710
-[3]: https://www.linkedin.com/in/rohit-verma-0a4578241
 ---
-![](https://img.shields.io/github/followers/rv0710?style=social)
-![](https://img.shields.io/github/stars/rv0710?affiliations=OWNER&style=social)
+![](https://img.shields.io/github/followers/rajputrv?style=social)
+![](https://img.shields.io/github/stars/rajputrv?affiliations=OWNER&style=social)
 ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frohitverma00710)
