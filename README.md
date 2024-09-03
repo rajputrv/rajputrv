@@ -138,3 +138,9 @@ You can find me at:
 ![](https://img.shields.io/github/followers/rajputrv?style=social)
 ![](https://img.shields.io/github/stars/rajputrv?affiliations=OWNER&style=social)
 ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frohitverma00710)
+
+<a href="https://rajputrv.github.io"> Visit my Website </a>
+</br></hr>
+<a href="https://rajputrv.github.io/NarutoCards/"> Checkout my Narutocards projects</a>
+</br> </hr>
+<a href="https://rajputrv.github.io/work.html"> Checkout other Projects done by me. </a>
