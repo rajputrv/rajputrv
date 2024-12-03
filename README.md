@@ -52,6 +52,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Rohit+Verma)](https://github.com/rajputrv)
+
 My name is Rohit Verma and I'm a software developer & FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I'm from Mandi,Himachal Pardesh and currently Studing at NIT Hamirpur.
 ---
 
@@ -119,6 +121,8 @@ You can find me at:
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+Github+Stats)](https://github.com/rajputrv)
+
 <a href="https://github.com/rajputrv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajputrv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
@@ -138,6 +142,8 @@ You can find me at:
 ![](https://img.shields.io/github/followers/rajputrv?style=social)
 ![](https://img.shields.io/github/stars/rajputrv?affiliations=OWNER&style=social)
 ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frohitverma00710)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+For+Visiting)](https://github.com/rajputrv)
 
 <a href="https://rajputrv.github.io"> Visit my Website </a>
 </br></hr>
