@@ -138,12 +138,18 @@ You can find me at:
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rv0710&show_icons=true&layout=compact)](https://github.com/rajputrv)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajputrv)](https://github.com/rajputrv)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)](https://github.com/rajputrv)
+
+
 ---
 ![](https://img.shields.io/github/followers/rajputrv?style=social)
 ![](https://img.shields.io/github/stars/rajputrv?affiliations=OWNER&style=social)
 ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frohitverma00710)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+For+Visiting)](https://github.com/rajputrv)
+
 
 <a href="https://rajputrv.github.io"> Visit my Website </a>
 </br></hr>
